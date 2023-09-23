@@ -131,7 +131,7 @@ Text is aligned on the left side
 A right margin of 50px;
 A  border of 5px on the right and 2px on the top; */
 .green{
-    background-color: #00D800;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 5px solid #ffffff;
@@ -152,6 +152,7 @@ footer{
 20px text that is aligned to the right.
 Padding of 15px on the top, right, and bottom only. (No padding on the left.) */
 footer > p{
+    font-size: 20px;
     text-align: right;
     padding: 15px 15px 15px 0px;
 }
